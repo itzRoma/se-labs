@@ -1,6 +1,5 @@
-#Labs for the Software Engineering subject
+<h1>Labs for the Software Engineering subject</h1>
 
----
 Completed:
 - labwork1<br>
 - labwork2<br>
