@@ -31,9 +31,9 @@ a
 1src/main/java/com/lab111/labwork3/v2/Test100.java,1\3\1330de362d65dcc23d3c8639188a4f15c2bbf77a
 ]
 -src/main/java/com/lab111/labwork4/Figure.java,5\a\5a69dc8df4693f6cc7898dddbf1d44bf88481d95
-^
-.src/main/java/com/lab111/labwork4/Test400.java,6\0\6073788adc335701026fc1de17875bcdd5329575
 \
 ,src/main/java/com/lab111/labwork4/Point.java,f\6\f67732b548a38507abba65d2a917b2169b33195a
+^
+.src/main/java/com/lab111/labwork4/Test400.java,6\0\6073788adc335701026fc1de17875bcdd5329575
 ]
 -src/main/java/com/lab111/labwork4/Circle.java,b\a\baeea8b3372bcaa40450f392cf3e915b02eed9f4
