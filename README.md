@@ -7,8 +7,6 @@ Completed:
 - labwork4<br>
 - labwork5<br>
 - labwork6<br>
-
-Uncompleted
 - labwork7<br>
 - labwork8<br>
 - labwork9<br>
